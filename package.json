@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "enjines":{
+  "engines":{
     "node":"14.16.1"
   },
   "author": "",
